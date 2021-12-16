@@ -1,4 +1,8 @@
 package sistemabus;
+/**
+ *
+ * @author Mendoza-Diego_Muñoz-Tomas_Torres-Sebastian_Carrasco-Claudio
+ */
 
 // linkList.java
 // demonstrates linked list

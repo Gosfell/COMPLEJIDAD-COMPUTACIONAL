@@ -1,5 +1,8 @@
 package sistemabus;
-
+/**
+ *
+ * @author Mendoza-Diego_Muñoz-Tomas_Torres-Sebastian_Carrasco-Claudio
+ */
 import java.util.Scanner;
 
 public class Bus {

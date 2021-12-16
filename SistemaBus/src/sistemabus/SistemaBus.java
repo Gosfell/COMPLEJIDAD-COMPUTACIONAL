@@ -1,6 +1,8 @@
-
 package sistemabus;
-        
+/**
+ *
+ * @author Mendoza-Diego_Muñoz-Tomas_Torres-Sebastian_Carrasco-Claudio
+ */        
 public class SistemaBus {
     
     private static Bus bus;
